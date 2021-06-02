@@ -1,1 +1,1 @@
-# typescript-soulcode-angular-aula1
+# Projeto para estudo de Angular
